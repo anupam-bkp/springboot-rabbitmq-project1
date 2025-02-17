@@ -1,2 +1,2 @@
 # springboot-rabbitmq-project1
-Springboot project to work with rabbitmq.
+SpringBoot project to work with rabbitmq.
