@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.learner</groupId>
-	<artifactId>springboot-rabbitmq-project1</artifactId>
+	<artifactId>springboot-rabbitmq-project3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-rabbitmq-project1</name>
+	<name>springboot-rabbitmq-project3</name>
 	<description>Demo project for Spring Boot with RabbitMQ</description>
 	<url/>
 	<licenses>
